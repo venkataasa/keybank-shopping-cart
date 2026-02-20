@@ -5,4 +5,6 @@ public class Categories{
     private String name;
     private String description;
     private String type;
+    private String stdt;
+    private String endt;
 }
