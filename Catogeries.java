@@ -7,4 +7,6 @@ public class Categories{
     private String type;
     private String stdt;
     private String endt;
+    private int duration;
+    private boolean isitactive;
 }
