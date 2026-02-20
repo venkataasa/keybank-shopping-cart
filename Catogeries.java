@@ -5,6 +5,7 @@ public class Categories{
     private String name;
     private String description;
     private String type;
+    private String status;
     private String stdt;
     private String endt;
     private int duration;
